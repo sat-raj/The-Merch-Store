@@ -1,7 +1,7 @@
 # The-Merch-Store
-# FanaticFoot Merchandise Hub
+# M&R
 
-Welcome to the **FanaticFoot Merchandise Hub**! This is an exceptional e-commerce website tailor-made for football aficionados. Explore our wide array of football-related merchandise, including jerseys, apparel, accessories, and collectibles.
+Welcome to the **M&R**! This is an exceptional e-commerce website tailor-made for football aficionados. Explore our wide array of football-related merchandise, including jerseys, apparel, accessories, and collectibles.
 
 ## Table of Contents
 
